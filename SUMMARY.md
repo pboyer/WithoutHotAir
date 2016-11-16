@@ -1,4 +1,4 @@
 # Summary
 
-* Numbers, not adjectives
+* [Numbers, not adjectives](numbers,_not_adjectives/Motivations)
 
