@@ -1,0 +1,1 @@
+I don't think this part of the book should follow exactly the same structure as MacKay's as there are different proposals to be made.
